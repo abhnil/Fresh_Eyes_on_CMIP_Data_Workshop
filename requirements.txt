@@ -1,6 +1,7 @@
 cartopy
-intake
-intake-esm
+intake==2.0.9
+intake-esm==2025.12.12
+pydantic==2.13.4
 gcsfs
 boto3
 azure-storage-blob
