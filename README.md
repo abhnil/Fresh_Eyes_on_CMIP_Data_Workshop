@@ -5,8 +5,7 @@ This repository contains notebooks for the Fresh Eyes on CMIP Workshop on the CM
 The notebooks cover:
 
 - accessing the cmip6 dataset from different data sources.
-- processing cmip6 data for analysis and visualisation.
-- producing climate stripes from the accessed cmip6 dataset.
+- processing cmip6 data for producing climate stripes.
 
 # Testing the code
 You can run the code in these notebooks on your own machine without downloading any of the requirements using binder. Note - the code will be much slower on binder than on your own machine. 
